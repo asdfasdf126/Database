@@ -1,0 +1,6 @@
+C:\Users\James\Documents\Visual Studio 2013\Projects\Database\Database\bin\Debug\Database.exe.config
+C:\Users\James\Documents\Visual Studio 2013\Projects\Database\Database\bin\Debug\Database.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\Database\Database\bin\Debug\Database.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\Database\Database\obj\Debug\Database.exe
+C:\Users\James\Documents\Visual Studio 2013\Projects\Database\Database\obj\Debug\Database.pdb
+C:\Users\James\Documents\Visual Studio 2013\Projects\Database\Database\obj\Debug\Game.Database.csprojResolveAssemblyReference.cache
